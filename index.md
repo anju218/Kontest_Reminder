@@ -31,8 +31,8 @@ We may update Our Privacy Policy from time to time. We will notify you of any ch
 If you have any questions or concerns about this privacy policy, or our practices with regards to your personal information, please contact us:
 
 By email: 
-###### Anjali Rengade: [anjalirengade23@gmail.com](anjalirengade23@gmail.com )
 ###### Nisarg Gogate : [nisarggogate212@gmail.com](nisarggogate212@gmail.com)
+###### Anjali Rengade: [anjalirengade23@gmail.com](anjalirengade23@gmail.com )
 
 
 
