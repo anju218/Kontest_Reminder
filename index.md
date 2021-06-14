@@ -1,7 +1,7 @@
 # PRIVACY POLICY
-Thank you! for chosing Kontest-Reminder.We are committed to protect your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at anjalirengade23@gmail.com/ nisarggogate212@gmail.com .
+Thank you! for chosing Kontest-Reminder.We are committed to protect your personal information and your right to privacy.  
 
-Kontest-Reminder gives a direct access to all competitive coding contests to all coders. And few additional features like Calander integration and alarms 1 min prior to contest. 
+Kontest-Reminder gives a direct access to all competitive coding contests to all coders with few additional features like Calander integration and set alarm 1 min prior to a contest. 
 For more information about our services visit [Kontest-Reminder](https://nisarg0.github.io/Kontest-Reminder/)
 
 In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Services immediately.
@@ -28,10 +28,11 @@ Our Service may contain links to other websites that are not operated by us. If 
 We may update Our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 ## Contact Us
-If you have any questions about this Privacy Policy, you can contact us:
+If you have any questions or concerns about this privacy policy, or our practices with regards to your personal information, please contact us:
 
-By email: anjalirengade23@gmail.com / nisarggogate212@gmail.com
-
+By email: 
+##### Anjali Rengade:[anjalirengade23@gmail.com](anjalirengade23@gmail.com )
+##### Nisarg Gogate :[nisarggogate212@gmail.com](nisarggogate212@gmail.com)
 
 
 
